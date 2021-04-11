@@ -1,4 +1,4 @@
-# amman-201
+# Code 201 Reading Notes
 
 |day 1|[class-01.md](class-01.md)|
 |---|----|
