@@ -2,7 +2,7 @@
 
 |day 1|[class-01.md](class-01.md)|
 |---|----|
-|day 2||
+|day 2|[class-02.md](class-02.md)|
 |day 3||
 |day 4||
 |day 5||
